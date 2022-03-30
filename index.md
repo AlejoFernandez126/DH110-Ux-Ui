@@ -4,26 +4,22 @@ You can use the [editor on GitHub](https://github.com/AlejoFernandez126/Github-w
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Attempt #1
 
-```markdown
-Syntax highlighted code block
+### Welcome, here you will find a little bit about me, but not enought to know me.
 
-# Header 1
-## Header 2
-### Header 3
+' import pandas as pd'
+ 
+ As somone who does not have much coding experience, importing and using the pandas library was something I used a lot last quarter.
+ 
+ I am a fourth year student at the University of California, Los Angeles. I'm curious yet loose interest fast.
+ 
+ _I look foward to learning more from this class_
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.gettyimages.com%2Fphotos%2Fmay-31-2015-lites-race-2nd-place-alejo-fernandez-1st-place-austin-picture-id579903382%3Fs%3D612x612&imgrefurl=https%3A%2F%2Fwww.gettyimages.ae%2Fphotos%2Falejo-fernandez&tbnid=9qcm5XbXLCeLsM&vet=12ahUKEwiBoc7L_-z2AhVnATQIHXsIDhgQMygHegQIARBM..i&docid=LzxgEOlzxTNibM&w=612&h=407&itg=1&q=alejo%20fernandez%20racing&client=safari&ved=2ahUKEwiBoc7L_-z2AhVnATQIHXsIDhgQMygHegQIARBM](url) and ![https://www.google.com/imgres?imgurl=http%3A%2F%2Fimages.greece.com%2Finfo%2FSocrates.jpg&imgrefurl=https%3A%2F%2Fwww.greece.com%2Finfo%2Fpeople%2FSocrates%2F&tbnid=fFbzJsZEm8LT9M&vet=12ahUKEwingrObgO32AhUFGzQIHR8ZAXgQMyhYegUIARCvAQ..i&docid=8241ZjiNU0iszM&w=289&h=400&q=socrates&client=safari&ved=2ahUKEwingrObgO32AhUFGzQIHR8ZAXgQMyhYegUIARCvAQ![image](https://user-images.githubusercontent.com/96998107/160751847-27fd553e-1a99-4371-bfff-9e27e3a2db12.png)
+](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
