@@ -25,8 +25,8 @@ The severity rating was performed using the following https://www.nngroup.com/ar
 Andyguitar (https://www.andyguitar.co.uk ) is a guitar learning website that provides lessons in both acoustic and electric guitar. The lessons range from: Pathway courses, lead guitar, rock guitar pathway, and fingerstyle. Users are able to pick what type of course they want to begin with or search for a specific tutorial/song. This website allows users to follow along with videos while also providing a short informative description of the lesson.
 This is an image from the first lesson. This lesson is providing the basics of how to hold a guitar and the anatomy of the guitar.
 
-This is a screenshot of the first lesson for beginners.
-This is a screenshot of the format he uses to demonstrate the tab or the chords used.
+![This is a screenshot of the first lesson for beginners.](ANDYGUITAR1.png)
+![This is a screenshot of the format he uses to demonstrate the tab or the chords used.](ANDYGUITAR2.png)
 
 
 Evaluation: Overall this website is easy to navigate and gets you straight to the point. The majority of users will find what they want and will be able to follow along to instructional videos fro their guitar lesson needs. There are minor tweaks that can be made such as incorporating different colors so that tool icons can be visible, synchronization of guitar strumming and chords while the lesson is played on the video, and lastly a forum would increase the brands customer retention since it will allow users to engage with other like minded individuals. 
@@ -107,14 +107,14 @@ The recommendation for this part of the website is to include a forum for users 
 2
 
 
-Guitarzero2hero
+#Guitarzero2hero
 
 Guitarzero2hero is a website that allows users to understand guitar essentials and learn how to play the guitar. Users have the freedom to use the free version of the site or upgrade to the premium version of the site. Additionally, users can select songs based on their favorite artists or they can search for a song by the title. The idea behind this feature is from the creator of the website, David Tran, he mentions that the best way to learn to play the guitar is to pick a song that you like and challenge yourself to learn it. As someone who taught themselves the guitar I can attest to what David Tran mentions.
 
-[This is an image of the beginners section] 
+![This is an image of the beginners section](Guitarzero2hero_beginer.png)
 
 
-[This is an image of a song tutorial from Guiatzero2hero]
+![This is an image of a song tutorial from Guiatzero2hero](tutorial-GuitarHero2zero)
 
 
 
