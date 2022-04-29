@@ -9,7 +9,7 @@
 # Link to research 
 (contextual inquiry) 
 
-guide (script)
+script link : https://docs.google.com/document/d/1HvmEPf2IZCCmIgjWasQI53tXDHkuhD_0KbBOiiGLg0g/edit?usp=sharing
 
 Link to your images & audio & video file -- please provide the photo of user's context related music learning (their books, instruments, or tools)
 
