@@ -45,7 +45,7 @@ For someone that wants to learn how to play the guitar, that person would typica
 
 ## Participatory Research Materials 
 
-# Below are the links 
+#### Below are the links 
 
 [This is the Transcript link](https://docs.google.com/document/d/1HvmEPf2IZCCmIgjWasQI53tXDHkuhD_0KbBOiiGLg0g/edit?usp=sharing)
 
@@ -54,6 +54,38 @@ For someone that wants to learn how to play the guitar, that person would typica
 [This is the Video link](https://drive.google.com/file/d/1qvXN5pZDHEQCjlBbgmyxRpdUh4ikxkXO/view?usp=sharing)
 
 
-#### A short reflection, what I learned and what I woudl change for the future.
+### Observation 
+- Time 5:59
 
+    - User commentary “I, like I said, I like that. There's the ability for somebody to correct you right away when you make a mistake versus like when I'm at home. And I just got my phone in front of me, like for my chords on my phone, I just, if I make a mistake, I could just hear it.”
+        -  Observations: There are pros and cons to in person lessons and online lessons. In person lessons have the upper hand in being able to physically guide the user on how to fix something. Online lessons have the convenience of learning at your own pace.
+
+
+-Time 11:05
+
+  - User commentary “I just think that it's like been really good for my mental health. Just playing with. Especially throughout the pandemic. Um, and just continuing to learn is like, that's just helping me, like with my happiness”
+     - Observations: playing the guitar is a healthy way to stimulate your mental health as well as your emotional well being. Learning to play the guitar is a creative and emotional outlet for people. This is another reason why more people should feel encourage to learn this instrument.
+
+
+- Time 15:08 
+
+    -User commentary “for me, I think it's just exciting to try to learn something that I know. And I really like, and then that'll just like, you'll play for hours and hours.”
+        - Observation: once the user find a song that they are interested in learning, they will spend a good amount of their time practicing that song. That means that the retention rate for a user is high once they find a song that they want to genuinely learn to play and that fits they level of playing. Ideally a web/app should constantly update their song tutorial library and have it organized by difficulty 
+
+
+- Time 20:58
+
+    - User commentary “ can you tell me about an experience that took you a long time when you were learning to play the guitar? Um, I would say two things, major things would be, um, one being switching between chords fast.”
+        - Observation: Switching between chords fast is essential to the rhythm of the song therefore this skill is essential to be able to play any song. A forum of FAQ or tips for this specific issue would encourage users to keep practicing as other users would share their tips and experiences learning this skill.
+
+
+Time 21:42
+User commentary “my strumming, which we've gotten a lot better at, it was hard at first.
+Observation: Learning to switch chords is one skill and strumming is another skill. This further demonstrates the types of skills that users are required to master if they want to play their favorite songs on the guitar. Strumming tips and member testimonials should also be included within the same forum as the chord switching skill.
+
+#### A short reflection on what you learned from the field study and what you would want to do differently in the future.
+
+My reflection from this field study is that there are overlapping themes that each beginner guitar player encounters that instructors overlook since it has been a long time since they struggled with that issue. In other words, because instructors have years of experience it may be hard to relate or view the struggles from the students perspective when struggling to learn a chord or strumming skill. Additionally, I noticed it was difficult for her to remember the name of the website where she was learning her chords or would search for guitar tutorials. This implies that either all the websites have a similar look or  lack the same things making it easy to blur one website with another. Lastly, I thought it was amazing to hear that learning to play the guitar is a way for her to feel connected to her family as well as how much of a positive impact it has had on her well being.
+
+If I further reflect on my experience, one of the ways that I would change what I did is that I would make sure to follow up with her more on certain questions. It seemed like she was still learning so i did not want to pressure her in any way but I feel that by having that approach I didn't get to ask her more in depth questions. I thought it was awesome how when she started playing and demonstrating a chord she felt genuinely enthused. That created a lasting impression since she had mentioned how much playing the guitar had helped her wellbeing.
 
