@@ -54,6 +54,14 @@ For someone that wants to learn how to play the guitar, that person would typica
 [This is the Video link](https://drive.google.com/file/d/1qvXN5pZDHEQCjlBbgmyxRpdUh4ikxkXO/view?usp=sharing)
 
 
+## Tools and instrument Interviewee has
+
+![This is an image of an acoustic Guitar](acoustic-guitar.jpg)
+
+![This is an image of a capo on a guitar](Capo-on-Guitar.jpg)
+
+![This is a screen shot from a website she has used in the past to learn songs](Song with chord.png)
+
 ### Observation 
 
 - Time 5:59
