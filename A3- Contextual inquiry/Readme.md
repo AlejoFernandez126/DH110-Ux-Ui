@@ -60,7 +60,7 @@ For someone that wants to learn how to play the guitar, that person would typica
 
 ![This is an image of a capo on a guitar](Capo-on-Guitar.jpg)
 
-![This is a screen shot from a website she has used in the past to learn songs](Song with chord.png)
+![This is a screen shot from a website she has used in the past to learn songs](song with chord.png)
 
 ### Observation 
 
