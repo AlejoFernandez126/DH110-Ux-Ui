@@ -7,4 +7,4 @@
 # Persona & Empathy Maps
 
 ## Persona 1: Ben Johnson
-![This is an Ben Johnson's Persona profile](A-4 Ben Johsnon jpg)
+![This is an Ben Johnson's Persona profile](A-4 Ben Johsnon.jpg)
