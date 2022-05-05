@@ -70,3 +70,19 @@
 ![Wire iamge of lesson task 4](Lesson-task-4.png)
 
 ## Testing The wire flow
+
+  - Task 1 Account creation, user is testing the flow of this task.
+
+![Wire fram test account creation task](Test-account.png
+
+  - Task 2 Song tutorial task, User is testing the flow of this task.
+
+![Wire fram test song tutorial task](Test-account.png
+
+  - Task 3 selecting a specific lesson plan, user will test the flow of this task.
+
+![Wire fram test lesson task](Test-account.png
+
+
+## Reflection & Design Reccomendations
+
