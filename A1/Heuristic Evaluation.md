@@ -1,26 +1,24 @@
 # Assignment 1 Heuristic Evaluation. Alejo Fernandez
 
-#Tentative title: GuitarmadeEZ
+## Tentative title: GuitarmadeEZ
 
+# Description:
 
+  - Music is a universal language to the ear. You hear the guitar in a folk Spanish song and can't help but admire that noise or you hear the soulfulness the guitar can convey in rhythm and blues and it's hard to deny the sensation of hearing this specific instrument. Essentially music is everywhere and now that we are living in the digital age it may be the easiest time to learn how to play the guitar. My personal example began at the beginning of the Global Pandemic of Covid-19 I decided I wanted to teach myself how to play the guitar. It was painful but also very rewarding. 
 
-#Description:
+  - My experience in being self taught will provide a valuable perspective for this project since the objective is to contribute an improved user experience to the website of my choice. Although technology can readily provide users with the tools to learn a skill, it can become a daunting task due to the amount of information a student encounters. There are thousands of websites and applications available to learn how to play the guitar. That is why I want to focus on two websites at the moment. 
 
-Music is a universal language to the ear. You hear the guitar in a folk Spanish song and can't help but admire that noise or you hear the soulfulness the guitar can convey in rhythm and blues and it's hard to deny the sensation of hearing this specific instrument. Essentially music is everywhere and now that we are living in the digital age it may be the easiest time to learn how to play the guitar. My personal example began at the beginning of the Global Pandemic of Covid-19 I decided I wanted to teach myself how to play the guitar. It was painful but also very rewarding. 
+  - The first is: https://www.andyguitar.co.uk
+  - The second is: https://guitarzero2hero.com
 
-My experience in being self taught will provide a valuable perspective for this project since the objective is to contribute an improved user experience to the website of my choice. Although technology can readily provide users with the tools to learn a skill, it can become a daunting task due to the amount of information a student encounters. There are thousands of websites and applications available to learn how to play the guitar. That is why I want to focus on two websites at the moment. 
-
-The first is: https://www.andyguitar.co.uk
-The second is: https://guitarzero2hero.com
-
-I want my UX project for this course i want to make an online guitar learning service that will make learning by yourself an easy and intuitive task.I want this project to consider middle-aged men as its target market. I want people to feel like they are navigating the website as easy as one navigates the google search bar while also providing users enough information to not overwhelm them, like a wikipedia abstract, so-to-speak. I think having a guitar learning website that is easy to search for things while also providing a brief description of what you need, and are learning will make the entire process simpler. 
+  - I want my UX project for this course i want to make an online guitar learning service that will make learning by yourself an easy and intuitive task.I want this project to consider middle-aged men as its target market. I want people to feel like they are navigating the website as easy as one navigates the google search bar while also providing users enough information to not overwhelm them, like a wikipedia abstract, so-to-speak. I think having a guitar learning website that is easy to search for things while also providing a brief description of what you need, and are learning will make the entire process simpler. 
 
 The Evaluations I am going to present were performed with https://www.nngroup.com/articles/ten-usability-heuristics/ as it baseline.
 
 The severity rating was performed using the following https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/ as its baseline.
 
 
-#Andyguitar.co.uk
+# Andyguitar.co.uk
 
 Andyguitar (https://www.andyguitar.co.uk ) is a guitar learning website that provides lessons in both acoustic and electric guitar. The lessons range from: Pathway courses, lead guitar, rock guitar pathway, and fingerstyle. Users are able to pick what type of course they want to begin with or search for a specific tutorial/song. This website allows users to follow along with videos while also providing a short informative description of the lesson.
 This is an image from the first lesson. This lesson is providing the basics of how to hold a guitar and the anatomy of the guitar.
@@ -32,8 +30,7 @@ This is an image from the first lesson. This lesson is providing the basics of h
 Evaluation: Overall this website is easy to navigate and gets you straight to the point. The majority of users will find what they want and will be able to follow along to instructional videos fro their guitar lesson needs. There are minor tweaks that can be made such as incorporating different colors so that tool icons can be visible, synchronization of guitar strumming and chords while the lesson is played on the video, and lastly a forum would increase the brands customer retention since it will allow users to engage with other like minded individuals. 
 
 
-
-Heuristic & Description
+# Heuristic & Description
 Evaluation
 Improvement/
 Recommendations
@@ -181,7 +178,7 @@ Guitarzero2hero is a website that allows users to understand guitar essentials a
 Overall: Overall Guitarzero2hero is a great website for users to learn how to play the guitar. It has a bit of an unconventional teaching style as it does not provide absolute beginners with much content. Rather Guitarzero2hero focuses more on the guitar player that already knows how to hold the guitar and the name of the strings. If the user has the basics down then the website is good for beginners. It houses conventional style and it also incorporates modern touches such as having the chords shape live while the instructor is demonstrating the tutorial. 
 
 
-Heuristic & Description
+# Heuristic & Description
 Evaluation
 Improvement/
 Recommendations
