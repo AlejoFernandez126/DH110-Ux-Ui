@@ -18,3 +18,55 @@
   - Selecting a specific lesson 
 
 ## Wire Frames & Wire Flow
+
+### This is the wire frame images for creating an account on "GuitarmadeEZ.com"
+
+  - #### The first task consist of creating an account on the website.
+    - #### The iamge below deonstrates the landing page of the website and then shows the following wire frame that instructs the user to input their email address.
+  
+![Wire frame of account task](Account-task-1.png)
+
+ - #### The iamge below demonstrates the user having to input a password to finalize their account creation
+
+![Wire frame of account task 2nd visual](Account-task-2.png)
+
+  - #### Below are the images of the 2nd task, which is searhcing for a song tutorial.
+
+    - #### The iamge below demonstrates the home screen, the user will click on the song icon to begin the search.
+    
+![Wire image of song tutorial task](Song-task-1.png)
+
+   - #### The image below is the 2nd step in the task, the user will be able to select their music choice
+   
+![Wire image of song tutorial task 2](Song-task-2.png)
+
+  - #### The image below is the third step, where the user has entered a different interface in whihc they can now select a apartiucalr song from the "Rock" Song category.
+ 
+![Image of song task 3](Song-task-3.png)
+
+  - #### The image below is the alst step from the song tutorial task.
+  
+  ![ wire image of song task 4](Song-task-4.png)
+  
+   - #### The third task consists of selecting a specific lesson.
+   
+   - #### The image below is the first step in selecting a specific lesson task
+
+![Wire image of lesson task 1](Lesson-task-1.png)
+
+ - #### The image below is the 2nd step in selecting a specific lesson task, the user will have a preview of the lesson weeks 
+
+![Wire image of lesson task 2](Lesson-task-2.png)
+
+  - #### The image below is the 3rd step in selecting a specific lesson task, the user will enter the specific lesson planand will allow the usre to select whihc sub lesson they want to select.
+
+![Wire iamge of lesson task 3](Lessson-task-3.png)
+
+ - #### The image below is the 4th step in selecting a specific lesson task, the user will enter will see a new page layut with specific lesson information
+  - The lesson video
+  - Chord Diagrams
+  - Song details
+
+![Wire iamge of lesson task 4](Lesson-task-4.png)
+
+## Testing The wire flow
