@@ -60,7 +60,7 @@
 
   - #### The image below is the 3rd step in selecting a specific lesson task, the user will enter the specific lesson planand will allow the usre to select whihc sub lesson they want to select.
 
-![Wire iamge of lesson task 3](Lessson-task-3.png)
+![Wire iamge of lesson task 3](Lesson-task-3.png)
 
  - #### The image below is the 4th step in selecting a specific lesson task, the user will enter will see a new page layut with specific lesson information
   - The lesson video
