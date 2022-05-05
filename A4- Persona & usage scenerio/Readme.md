@@ -45,3 +45,7 @@
 ### Daniel's Journey map
  ![](Daniel-journey-map.jpg)
  
+### Reflection
+
+
+The process of creating personas accompanied with their corresponding empathy map, scenarios, and your map was a fun and creative project. I think this was a great project to get my creative flow going since it stimulated me, i had to think clearly about the type of research questions I wanted to ask and how I was going to find that information. Using polls,census data, and other publicly available information I was able to let my inspiration take the reins of this project. As a result I came up with two individual user personas across the united states that suited the assignment. 
