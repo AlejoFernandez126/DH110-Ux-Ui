@@ -72,15 +72,20 @@
 ## Testing The wire flow
 
   - Task 1 Account creation, user is testing the flow of this task.
-  - The user mentioned the follwoing " 
+  - The user mentioned the follwoing: 
      -  Does it start when you already logged in or from create an account? 
      -  Will i only ask for email, no phone number, name, demographic info?
      - Suggest options for first courses user should take or some sort of test your skills."
-![Wire fram test account creation task](Test-account.jpg)
+![Wire fram test account creation task](Test-account-task.jpg)
 
   - Task 2 Song tutorial task, User is testing the flow of this task.
-
-![Wire fram test song tutorial task](Test-account.png
+  - The user mentioned the follwoing:
+    - Why only have these three categories of music?
+    - Include a header directing the user for example Prompt the user to select a genre.
+    - I like the difficulty meter, it helps me get prepared for the tutorial.
+ 
+![Wire fram test account creation task](Test-account-task.jpg)
+![Wire fram test song tutorial task](Test-song-wireflow.jpg)
 
   - Task 3 selecting a specific lesson plan, user will test the flow of this task.
 
