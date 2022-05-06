@@ -78,19 +78,37 @@
      - Suggest options for first courses user should take or some sort of test your skills."
 ![Wire fram test account creation task](Test-account-task.jpg)
 
-  - Task 2 Song tutorial task, User is testing the flow of this task.
+  - Task 2, Song tutorial task, User is testing the flow of this task.
   - The user mentioned the follwoing:
     - Why only have these three categories of music?
     - Include a header directing the user for example Prompt the user to select a genre.
     - I like the difficulty meter, it helps me get prepared for the tutorial.
  
-![Wire fram test account creation task](Test-account-task.jpg)
 ![Wire fram test song tutorial task](Test-song-wireflow.jpg)
 
   - Task 3 selecting a specific lesson plan, user will test the flow of this task.
+  - The user mentioned the following:
+    - Why only have these three categories of music?
+    - Include a header directing the user for example Prompt the user to select a genre.
+    - I like the difficulty meter, it helps me get prepared for the tutorial.
 
-![Wire fram test lesson task](Test-account.png
 
+
+![Wire fram test lesson task](Test-lesson-task.jpg)
+  - Task 3 selecting a specific lesson plan, user will test the flow of this task.
+  - The user mentioned the following:
+    - The descriptions under the main video are great at giving a brief overview for what you'll need and what to expect
+    - Love the table of contents because it allows for easy skipping around if you feel thats what you want 
+    - Would be helpful to instruct the user they can select any sub-task from the lesson for example letting them know they can select either the warm up, the lesson, or the practice 
+    - Is there a recording or metronome feature built in ?
 
 ## Reflection & Design Reccomendations
+
+  - The user testing of the wire frames was incredibly successful in my opinion. The tester was able to follow the wire frame and also provided me with feedback in order to improve the user experience. One of the common themes I found from the feedback I received was that for my user experience to improve I should prompt the user to do things. Initially I created a very simple layout so that there isn't room for the user to wander, however due to its simplicity I lacked a call to action prompt or headings. I think including these call to action heading will allow the user to understand and navigate the website in an intuitive manner. I also think I should incorporate the tools that my tester mentioned such as a progress bar for either a lesson or their journey. Additionally, I would like to add a metronome and recording feature.
+
+Based on the user experience test recommendations
+  - Include call to action headers and prompt
+  - Will help user navigate the menu options
+  - Include more music genres
+  - Incorporate a metronome and recording feature 
 
