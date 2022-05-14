@@ -5,14 +5,10 @@
 Link to prototype with work: 
 https://www.figma.com/file/nylEGBoo9U3ylxfuDpFnWK/A6-interface-design-work-flow?node-id=31%3A6
 
-- This is my final version 
+ ## Screen design
 
 ![](Dh110-A6-layout.png)
 
-## Screen design
-
-  - This is the a picture of my website design with a grid.
- 
 
 ## Typography varitation
 
@@ -72,3 +68,6 @@ https://www.figma.com/file/nylEGBoo9U3ylxfuDpFnWK/A6-interface-design-work-flow?
 
 
 Link to doc with participant commentshttps://docs.google.com/document/d/1ih8RFpDUgj0Y1fFxqXILgVJy19ldft48sO5remPU-VQ/edit?usp=sharing
+
+![](DH110-A6-layout-grid.png)
+
