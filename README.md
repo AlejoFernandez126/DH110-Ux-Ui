@@ -21,31 +21,31 @@ A summary on my Heaurictisc valuation. Overall this website is easy to navigate 
 
   - Next I conducted a user testing to see if other people had the same thoughts about the competitor website I selected. The purpose of this test was to gather a baseline for how good or bad the website andyguitar.co.uk is for a middle aged man wanting to learn to play the guitar.The task I created for this usability test takes into consideration the type of task a new guitar player will encounter like navigating to the first lesson of the beginners course, searching for a song tutorial, or learning how to play the guitar without a pick.
 
-Heuristic Evaluation:
+  -   Heuristic Evaluation:
 
-https://github.com/AlejoFernandez126/DH110-Ux-Ui/blob/main/A1/Heuristic%20Evaluation-README.md
-
-Usability testing:
-
-https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A2-UT-Andyguitar.co.uk
+  - https://github.com/AlejoFernandez126/DH110-Ux-Ui/blob/main/A1/Heuristic%20Evaluation-README.md
+  
+  - Usability testing:
+  
+  - https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A2-UT-Andyguitar.co.uk
 
 
 ## User Research
 
-I wanted to create a guitar learning website that was intuitive for beginners or people that had never touched a guitar in their lives. I conducted user research with a participant that gave me insight on the type of activities needed to learn to play the guitar. What are some current options to learn to play the guitar as well. I spent a lot of time curating specific questions so that I can understand the target user as much as possible. Additional questions that I asked were: often do they play the guitar, what inspires them to play the guitar, and what are some ways that they practice playing the guitar. This part of the design process was crucial as it allowed me to understand what a user wanted from a guitar learning experience other than my own opinion on the matter. Essentially this allows me to back up my findings since I have field research.
+  - I wanted to create a guitar learning website that was intuitive for beginners or people that had never touched a guitar in their lives. I conducted user research with a participant that gave me insight on the type of activities needed to learn to play the guitar. What are some current options to learn to play the guitar as well. I spent a lot of time curating specific questions so that I can understand the target user as much as possible. Additional questions that I asked were: often do they play the guitar, what inspires them to play the guitar, and what are some ways that they practice playing the guitar. This part of the design process was crucial as it allowed me to understand what a user wanted from a guitar learning experience other than my own opinion on the matter. Essentially this allows me to back up my findings since I have field research.
 
-User research link :
+  - User research link:
 https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A3-%20Contextual%20inquiry
 
 ## UX Storytelling
 
-For the story telling aspect of this assignment I also had to perform some research. I had to understand the type of target user I am aiming for so that I can provide the best experience for them. One of the ways that I was able to do this was by creating “personas”. Essentially creating personas is the process of creating the target user. The process involved demographic data, motivations and needs for the product, goals, challenges and their story. I created 2 different buyer personas. One of the buyer personas is of american descent and the other is of latin american decent. I wanted to focus on these two types of ethnicities, and I selected these two ethnicities based on the popularity of guitar in their traditional media/music source.
+  - For the story telling aspect of this assignment I also had to perform some research. I had to understand the type of target user I am aiming for so that I can provide the best experience for them. One of the ways that I was able to do this was by creating “personas”. Essentially creating personas is the process of creating the target user. The process involved demographic data, motivations and needs for the product, goals, challenges and their story. I created 2 different buyer personas. One of the buyer personas is of american descent and the other is of latin american decent. I wanted to focus on these two types of ethnicities, and I selected these two ethnicities based on the popularity of guitar in their traditional media/music source.
 
 [](Ben-persona.jpg)
 
 [](Daniel-persona.jpg)
 
-UX storytelling: https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A4-%20Persona%20%26%20usage%20scenerio
+  - UX storytelling: https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A4-%20Persona%20%26%20usage%20scenerio
 
 ## Wireframe and graphic design element variation
 
@@ -53,14 +53,14 @@ UX storytelling: https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A4-%
 
 ![](low-fidelity.png)
 
-Wireframe: 
+  - Wireframe: 
 https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A5-%20Low%20Fidelity%20Prototype
 
 ## Low fidelity Prototype 
 
   - After receiving feedback on my first version of the wireframe I decided to get more in depth with my design process. I used figma to create the prototypes. The goal was to go from a low fidelity prototype to a working design. It would demonstrate the process from the usersperstive from the landing page and into the three different tasks mentioned above. I made a desktop version and I also made a mobile version. I figured users would be inclined to both versions of the product and I thought it would help me understand the differences between a desktop and mobile UX/UI product. I spent  a lot of time developing both of these versions. I made sure to us specific colors and that the buttons/layout I implemented were there with a purpose.
 
-Low fidelity prototype:
+  - Low fidelity prototype:
 
 https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A6-%20Interface%20Design%20Syste
 
@@ -74,11 +74,11 @@ https://www.figma.com/file/nylEGBoo9U3ylxfuDpFnWK/A6-interface-design-work-flow?
 
 ![](High-fidelity.png)
 
-High fidelity prototype process:
+  - High fidelity prototype process:
 
   - https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A7-High%20Fidelity%20Prototype
 
-High fidelity prototype Mobile Version:
+  - High fidelity prototype Mobile Version:
 
   - https://www.figma.com/file/sVdwsFhryjAheKoL7d6pWk/Dh110-A7?node-id=0%3A1
 
@@ -88,5 +88,5 @@ Embeded code here
 
 ## Conclusion
 
-This was my first UX/UI class, before we began our project I had a different understanding of how to properly go about creating a successful website/ application design and interface. I thought it was a valuable and rewarding experience. I didn't realize the type or depth of research that goes into the development of a website or app. I also had no previous experience using figma nor any other type of design software. At first this was overwhelming as it was a lot to take in but towards the end of the project it felt intuitive and I actually began to work on figma in my free time. I think this course has allowed me to understand the backend of websites as well. I think it is extremely valuable to be able to communicate with web developers in an effective manner and vice versa, I truly think this class has enabled me to communicate with web developers effectively. Another lesson that I took away from this experience is that the design process is fluid and this can feel daunting at first but liberating once you get a rhythm going. 
+  - This was my first UX/UI class, before we began our project I had a different understanding of how to properly go about creating a successful website/ application design and interface. I thought it was a valuable and rewarding experience. I didn't realize the type or depth of research that goes into the development of a website or app. I also had no previous experience using figma nor any other type of design software. At first this was overwhelming as it was a lot to take in but towards the end of the project it felt intuitive and I actually began to work on figma in my free time. I think this course has allowed me to understand the backend of websites as well. I think it is extremely valuable to be able to communicate with web developers in an effective manner and vice versa, I truly think this class has enabled me to communicate with web developers effectively. Another lesson that I took away from this experience is that the design process is fluid and this can feel daunting at first but liberating once you get a rhythm going. 
 
