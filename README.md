@@ -86,7 +86,8 @@ https://www.figma.com/file/nylEGBoo9U3ylxfuDpFnWK/A6-interface-design-work-flow?
 
 ## Pitch Video
 
-Embeded code here
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xBjlvc2ve44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Conclusion
 
