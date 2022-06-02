@@ -51,7 +51,7 @@ https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A3-%20Contextual%20in
 
   - After I conducted research on my target audience and interviewed people to understand the audience, the next task was to create a simple wireframe of how the application would look. The wireframes and flow will be based off of the task that our previous personas have executed.The type of task involved are creating an account, searching for a song tutorial, and selecting a specific lesson plan. The purpose of a low fidelity prototype is that it allows one to have a rough visualization of what the design is going to look like at the end of the process. Additionally, from this we can improve and make make changes to the design by showing this to other participants that would give me feedback. 
 
-![](low-fidelity.png)
+![](dh110-low-fidelity.png)
 
   - Wireframe: 
 https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A5-%20Low%20Fidelity%20Prototype
