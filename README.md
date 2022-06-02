@@ -10,7 +10,7 @@ Insert image here to support what guitarmadeez is
 
 ## Design statement
 
-  - Most guitar learning websites either have too much information or lack information. This creates a barrier for people that want to learn how to play the guitar by themselves. Additional issues that users encounter is that if they find an intuitive website to learn to play the guitar it often comes with monthly fees or a music library with limited songs. My product allows users to learn how to play the guitar in 15 weeks. It has a structured plan and interactive lesson that allows first-time players to digest information properly. 
+  - Most guitar learning websites either have too much information or lack information. This creates a barrier for people that want to learn how to play the guitar by themselves. Additional issues that users encounter is that if they find an intuitive website to learn to play the guitar it often comes with monthly fees or a music library with limited songs. My product allows users to learn how to play the guitar in 12 weeks. It has a structured plan and interactive lesson that allows first-time players to digest information properly. 
 
 ## Competitor Analysis 
 
