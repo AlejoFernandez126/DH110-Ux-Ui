@@ -61,6 +61,7 @@ https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A5-%20Low%20Fidelity%
   - After receiving feedback on my first version of the wireframe I decided to get more in depth with my design process. I used figma to create the prototypes. The goal was to go from a low fidelity prototype to a working design. It would demonstrate the process from the usersperstive from the landing page and into the three different tasks mentioned above. I made a desktop version and I also made a mobile version. I figured users would be inclined to both versions of the product and I thought it would help me understand the differences between a desktop and mobile UX/UI product. I spent  a lot of time developing both of these versions. I made sure to us specific colors and that the buttons/layout I implemented were there with a purpose.
 
   - Low fidelity prototype:
+ 
  ![](final version.png)
 
 https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A6-%20Interface%20Design%20Syste
