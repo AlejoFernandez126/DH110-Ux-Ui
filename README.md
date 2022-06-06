@@ -2,7 +2,6 @@
 
 Alejo Fernandez, Digital Humanities 150: UX/UI design Spring 2022 UCLA
 
-Insert image here to support what guitarmadeez is 
 
 ## About this project
 
