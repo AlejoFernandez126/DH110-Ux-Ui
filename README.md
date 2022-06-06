@@ -16,26 +16,22 @@ Insert image here to support what guitarmadeez is
 
 ![](competitor-analysis.png)
 
-  - Before embarking on this project I had to do some research on the type of services that already exist. I performed a Heuristic Evaluation and Usability test on a guitar learning website known as: https://www.andyguitar.co.uk
-A summary on my Heaurictisc valuation. Overall this website is easy to navigate and gets you straight to the point when wanting to learn to play the guitar. The majority of users will find what they want and will be able to follow along to instructional videos for their guitar lesson needs. There are minor tweaks that can be made such as incorporating different colors so that tool icons can be visible, synchronization of guitar strumming and chords while the lesson is played on the video, and lastly a forum would increase the brands customer retention since it will allow users to engage with other like minded individuals.
+  - Before embarking on this project I had to do some research on the type of services that already exist. I performed a Heuristic Evaluation and Usability test on a guitar learning website known as [Andyguitar.co.uk](https://www.andyguitar.co.uk)
+
+  - A summary on my Heaurictisc valuation. Overall this website is easy to navigate and gets you straight to the point when wanting to learn to play the guitar. The majority of users will find what they want and will be able to follow along to instructional videos for their guitar lesson needs. There are minor tweaks that can be made such as incorporating different colors so that tool icons can be visible, synchronization of guitar strumming and chords while the lesson is played on the video, and lastly a forum would increase the brands customer retention since it will allow users to engage with other like minded individuals.
 
   - Next I conducted a user testing to see if other people had the same thoughts about the competitor website I selected. The purpose of this test was to gather a baseline for how good or bad the website andyguitar.co.uk is for a middle aged man wanting to learn to play the guitar.The task I created for this usability test takes into consideration the type of task a new guitar player will encounter like navigating to the first lesson of the beginners course, searching for a song tutorial, or learning how to play the guitar without a pick.
 
-  -   Heuristic Evaluation:
-
-  - https://github.com/AlejoFernandez126/DH110-Ux-Ui/blob/main/A1/Heuristic%20Evaluation-README.md
+  -   [Heuristic Evaluation](https://github.com/AlejoFernandez126/DH110-Ux-Ui/blob/main/A1/Heuristic%20Evaluation-README.md)
   
-  - Usability testing:
-  
-  - https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A2-UT-Andyguitar.co.uk
+  - [Usability testing](https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A2-UT-Andyguitar.co.uk)
 
 
 ## User Research
 
   - I wanted to create a guitar learning website that was intuitive for beginners or people that had never touched a guitar in their lives. I conducted user research with a participant that gave me insight on the type of activities needed to learn to play the guitar. What are some current options to learn to play the guitar as well. I spent a lot of time curating specific questions so that I can understand the target user as much as possible. Additional questions that I asked were: often do they play the guitar, what inspires them to play the guitar, and what are some ways that they practice playing the guitar. This part of the design process was crucial as it allowed me to understand what a user wanted from a guitar learning experience other than my own opinion on the matter. Essentially this allows me to back up my findings since I have field research.
 
-  - User research link:
-https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A3-%20Contextual%20inquiry
+  - [User research link](https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A3-%20Contextual%20inquiry)
 
 ## UX Storytelling
 
@@ -45,7 +41,7 @@ https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A3-%20Contextual%20in
 
 [](Daniel-persona.jpg)
 
-  - UX storytelling: https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A4-%20Persona%20%26%20usage%20scenerio
+  - [UX storytelling](https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A4-%20Persona%20%26%20usage%20scenerio)
 
 ## Wireframe and graphic design element variation
 
@@ -53,22 +49,18 @@ https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A3-%20Contextual%20in
 
 
 
-  - Wireframe: 
-https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A5-%20Low%20Fidelity%20Prototype
+  - [Wireframe](https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A5-%20Low%20Fidelity%20Prototype)
 
 ## Low fidelity Prototype 
 
   - After receiving feedback on my first version of the wireframe I decided to get more in depth with my design process. I used figma to create the prototypes. The goal was to go from a low fidelity prototype to a working design. It would demonstrate the process from the usersperstive from the landing page and into the three different tasks mentioned above. I made a desktop version and I also made a mobile version. I figured users would be inclined to both versions of the product and I thought it would help me understand the differences between a desktop and mobile UX/UI product. I spent  a lot of time developing both of these versions. I made sure to us specific colors and that the buttons/layout I implemented were there with a purpose.
 
-  - Low fidelity prototype:
+  - [Low fidelity prototype](https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A6-%20Interface%20Design%20Syste)
  
 ![](dh110-low-fidelity.png)
 
-https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A6-%20Interface%20Design%20Syste
 
-Different design options: 
-
-https://www.figma.com/file/nylEGBoo9U3ylxfuDpFnWK/A6-interface-design-work-flow?node-id=0%3A1
+[Different design options](https://www.figma.com/file/nylEGBoo9U3ylxfuDpFnWK/A6-interface-design-work-flow?node-id=0%3A1)
 
 ## High Fidelity Prototype 
 
@@ -76,13 +68,10 @@ https://www.figma.com/file/nylEGBoo9U3ylxfuDpFnWK/A6-interface-design-work-flow?
 
 ![](High-fidelity.png)
 
-  - High fidelity prototype process:
+  - [High fidelity prototype process](https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A7-High%20Fidelity%20Prototype)
 
-  - https://github.com/AlejoFernandez126/DH110-Ux-Ui/tree/main/A7-High%20Fidelity%20Prototype
+  - [High fidelity prototype Mobile Version](https://www.figma.com/file/sVdwsFhryjAheKoL7d6pWk/Dh110-A7?node-id=0%3A1)
 
-  - High fidelity prototype Mobile Version:
-
-  - https://www.figma.com/file/sVdwsFhryjAheKoL7d6pWk/Dh110-A7?node-id=0%3A1
 
 ## Pitch Video
 
